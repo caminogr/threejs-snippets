@@ -1,0 +1,13 @@
+{
+  "shaderMaterialParameter": {
+    "prefix": ["shaderMatParams"],
+    "body": [
+      "$1{",
+      "  uniforms: ${2:THREE.ShaderLib.basic.uniforms}",
+      "  vertexShader: ${3:THREE.ShaderLib.basic.vertexShader},",
+      "  fragmentShader: ${4:THREE.ShaderLib.basic.fragmentShader},",
+      "}"
+    ],
+    "description": "shaderMaterialParameter"
+  }
+}

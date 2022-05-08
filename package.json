@@ -8,6 +8,10 @@
           "typescriptreact"
         ],
         "path": "./snippets/react-three-fiber.json"
+      },
+      {
+        "language": "typescript",
+        "path": "./snippets/ts-three.json"
       }
     ]
   }
