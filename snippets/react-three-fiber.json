@@ -1,0 +1,12 @@
+{
+  "box": {
+    "prefix": ["box"],
+    "body": [
+      "<mesh$1>",
+      "\t <boxGeometry args={[${2:1,1,1}]} />",
+      "\t <meshBasicMaterial color={'${3:red}'} />",
+      "</mesh>"
+    ],
+    "description": "box"
+  }
+}
