@@ -1,0 +1,14 @@
+{
+  "name": "threejs-snippets",
+  "contributes": {
+    "snippets": [
+      {
+        "language": [
+          "javascriptreact",
+          "typescriptreact"
+        ],
+        "path": "./snippets/react-three-fiber.json"
+      }
+    ]
+  }
+}
